@@ -18,5 +18,10 @@
             <artifactId>Money_Pojo</artifactId>
             <version>1.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>wh</groupId>
+            <artifactId>Money_Common</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 </project>
